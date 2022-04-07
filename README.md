@@ -28,3 +28,5 @@
 <div>
     <a href="https://www.linkedin.com/in/dimitri-zuave-costa-da-silva-3543391a8/" target="_blank" /> <img target ="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
+
+ ![Snake Animation](https://github.com/DimitriZC/DimitriZC/blob/output/github-contribution-grid-snake.svg)
